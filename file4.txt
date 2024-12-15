@@ -1,1 +1,2 @@
 This is some woodo stuff right here
+Hello new line from visual code 
